@@ -3,7 +3,7 @@
 
 ### This website is live here: https://nancyjain0631.github.io/Pictures-nancy/
 
-### In this project, there is a SearchBar where user can enter any term and using that term React will fetch images using an API to Unsplash and then the images will be shown on the screen in a grid system.
+### In this project, there is a SearchBar where a user can enter any term and using that term React will fetch images using an API to Unsplash and then the images will be shown on the screen in a grid system.
 
 # Getting Started with Create React App
 
