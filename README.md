@@ -1,3 +1,10 @@
+
+# Pictures
+
+### This website is live here: https://nancyjain0631.github.io/Pictures-nancy/
+
+### In this project, there is a SearchBar where user can enter any term and using that term React will fetch images using an API to Unsplash and then the images will be shown on the screen in a grid system.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +75,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Made with ❤️ by Nancy
